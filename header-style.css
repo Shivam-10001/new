@@ -1,7 +1,7 @@
 .main-logo{
 
 
-   width: 35px;
+   width: 60px;
    margin-top: 0px;
    margin-left: 25px;
    cursor: pointer;
@@ -100,7 +100,7 @@
  background-color: rgba(49, 49, 49, 0.459);
       font-family: Finger Paint;
       color: white;
-      font-size: 10px;
+      font-size: 15px;
       padding: 9px;
       padding-right: 20px;
       padding-left: 20px;
@@ -124,7 +124,7 @@
    background-color: rgba(49, 49, 49, 0.459);
       font-family: Finger Paint;
       color: white;
-      font-size: 10px;
+      font-size: 15px;
       font-weight: 100px;
       padding: 9px;
       padding-right: 20px;
@@ -147,7 +147,7 @@
      background-color: rgba(49, 49, 49, 0.459);
       font-family: Finger Paint;
       color: white;
-      font-size: 10px;
+      font-size: 15px;
       padding: 9px;
       padding-right: 20px;
       padding-left: 20px;
@@ -168,10 +168,11 @@
     
  
 
-   width: 890px;
+   width: 100%;
    border-radius: 1000px;
     transition: opacity 1s;
     position: relative;
+    margin-left: 100px;
   
 
 
@@ -188,7 +189,7 @@
 .panda{
 
 margin-left: 25px;
-margin-top: 80px;
+margin-top: 100px;
 
 
 
@@ -197,9 +198,9 @@ margin-top: 80px;
 }   
 .pandat{
 
- width: 890px;
+ width: 1408px;
 border-radius: 1000px;
-   margin-left: 178px;
+   margin-left: 278px;
 
 
 
@@ -208,7 +209,7 @@ border-radius: 1000px;
 .pando{
     
 
-  margin-top: 80px;
+  margin-top: 100px;
   transition: opacity 1.5s;
    position: fixed;
     cursor: pointer;
@@ -221,10 +222,11 @@ border-radius: 1000px;
 }
 
 .rights{
+
 display: inline-block;
 margin-left: 0px;
-margin-top: 580px;
-margin-left: 60px;
+margin-top: 900px;
+margin-left: 130px;
 cursor: pointer;
 
 
@@ -234,7 +236,7 @@ cursor: pointer;
 
 .insta-logo{
  
-  width: 20px;
+  width: 30px;
   transition: transform .2s;
   padding-left: 8px;
 }
@@ -252,7 +254,7 @@ cursor: pointer;
   display: flex;
   flex-direction: row;
   position: fixed;
-  margin-top: 470px;
+  margin-top: 700px;
   margin-left: 40px;
   
 
@@ -263,7 +265,7 @@ cursor: pointer;
 
 .hello-text{
 
-  width: 120px;
+  width: 170px;
  transition: transform .3;
  cursor: pointer;
 
